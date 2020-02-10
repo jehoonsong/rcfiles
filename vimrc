@@ -79,3 +79,7 @@ set visualbell           " don't beep
 set noerrorbells         " don't beep
 set autowrite  "Save on buffer switch
 set mouse=a
+
+" highlight ColorColumn ctermbg=gray
+set colorcolumn=72
+
